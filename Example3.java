@@ -2,6 +2,7 @@
 	This program illustrates the differences
 	between int and double.
 */
+// adding a random comment
 class Example3 {
 	public static void main(String args[]) {
 		int var; 

@@ -3,6 +3,8 @@
 	between int and double.
 */
 // adding a random comment
+// more and more
+// more and more
 class Example3 {
 	public static void main(String args[]) {
 		int var; 
